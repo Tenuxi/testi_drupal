@@ -1,0 +1,90 @@
+body {
+    background-color: #131313;
+    color: #ffffff;
+}
+
+a{
+    color: #000000;
+    text-decoration: none;
+}
+
+header{
+    background-color: #000000;
+    margin: 15px 0 15px 0;
+}
+
+.region region-header{
+    background-color: #ffffff;
+}
+
+.site-logo img{
+    width: 150px;
+}
+
+
+/*navigaatio*/
+#block-teema1-main-menu{
+    background-color: #000000;
+}
+
+#block-teema1-main-menu a:hover{
+    color: #ffffff;
+    text-
+}
+
+#block-teema1-main-menu ul li{
+    color: #ffffff;
+    display: inline;
+}
+
+#block-teema1-main-menu a{
+    color: #ffffff;
+}
+
+ul.menu a.is-active {
+    color: #ffffff;
+}
+
+
+
+/*KOKO keskiosa*/
+.layout-container{
+    background-color: #000000;
+    width: 90%;
+    margin-left: 5%;
+    padding: 15px;
+    display: inline-block;
+    border-right: 1px solid #ffffff;
+    border-left: 1px solid #ffffff;
+}
+
+
+/*PÄÄSISÄLTÖ*/
+.layout-content{
+    width: 70%;
+    float: right;
+    padding: 10px;
+    background-color: #ffffff;
+    color: #000000;
+    border: 1px solid #ffffff;
+    border-radius: 12px;
+}
+
+
+
+/*vasen sivupalkki*/
+.layout-sidebar-first{
+    width: 25%;
+    padding: 10px;
+    background-color: #ffffff;
+    color: #000000;
+    border: 1px solid #ffffff;
+    border-radius: 12px;
+}
+
+
+/*footer*/
+footer{
+    text-align: center;
+    clear:both;
+}
